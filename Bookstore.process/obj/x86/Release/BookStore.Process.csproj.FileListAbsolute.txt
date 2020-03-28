@@ -1,0 +1,72 @@
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Process.exe.config
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Process.exe
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Process.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Business.Entities.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Services.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Common.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\BookStore.Services.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\bin\Release\Common.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\obj\x86\Release\BookStore.Process.exe
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\BookStore.Process\obj\x86\Release\BookStore.Process.pdb
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Process.exe.config
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Process.exe
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Process.pdb
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.StaticFactory.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.Interfaces.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Business.Entities.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Services.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Services.Interfaces.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Common.dll
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.Interfaces.pdb
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.pdb
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Business.Entities.pdb
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Services.Interfaces.pdb
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\BookStore.Services.pdb
+E:\2011\rev4\BookStore\BookStore.Process\bin\Release\Common.pdb
+E:\2011\rev4\BookStore\BookStore.Process\obj\x86\Release\ResolveAssemblyReference.cache
+E:\2011\rev4\BookStore\BookStore.Process\obj\x86\Release\BookStore.Process.exe
+E:\2011\rev4\BookStore\BookStore.Process\obj\x86\Release\BookStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\BookStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\bin\Release\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\obj\x86\Release\BookStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Process\obj\x86\Release\BookStore.Process.pdb

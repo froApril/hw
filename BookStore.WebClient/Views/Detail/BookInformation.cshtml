@@ -1,0 +1,67 @@
+﻿@model BookStore.WebClient.ClientModels.Details
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detail</h2>
+
+<div>
+    <h4>DetailViewModel</h4>
+
+    <hr />
+    @User.Identity.GetUserId()
+    <hr />
+
+    id: @Model.pmedia.Id
+    <hr/>
+
+    title: @Model.pmedia.Title
+    <hr />
+    author: @Model.pmedia.Author
+    <hr />
+    genre: @Model.pmedia.Genre
+    <hr />
+    price: @Model.pmedia.Price
+    <hr />
+    like:@Model.pmedia.Like
+    <hr />
+    dislike: @Model.pmedia.Dislike
+</div>
+
+@using (Html.BeginForm("Like", "Detail"))
+{
+    @Html.Hidden("pMediaId", Model.pmedia.Id)
+    @Html.Hidden("userId", User.Identity.GetUserId())
+    <input type="submit" value="Like" />
+}
+@using (Html.BeginForm("Dislike", "Detail"))
+{
+    @Html.Hidden("pMediaId", Model.pmedia.Id)
+    @Html.Hidden("userId", User.Identity.GetUserId())
+    <input type="submit" value="Dislike" />
+}
+
+<p>Recommendation list</p>
+<table>
+    <tr>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.recommendation)
+    {
+        <tr>
+            <td>
+                @item.Title |
+                Author: $@item.Author |
+                Like: @item.Like |
+                Id: @item.Id
+                @Html.ActionLink("View", "BookInformation", new { pMediaId = item.Id, userid =User.Identity.GetUserId() }) 
+
+
+            </td>
+        </tr>
+    }
+
+</table>
+

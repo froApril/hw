@@ -1,0 +1,15 @@
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\Common\bin\Release\Common.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\Common\bin\Release\Common.pdb
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\Common\obj\Release\Common.dll
+C:\Users\Matt\Desktop\comp5348\2011\BookStore\Common\obj\Release\Common.pdb
+E:\2011\rev4\BookStore\Common\bin\Release\Common.dll
+E:\2011\rev4\BookStore\Common\bin\Release\Common.pdb
+E:\2011\rev4\BookStore\Common\obj\Release\ResolveAssemblyReference.cache
+E:\2011\rev4\BookStore\Common\obj\Release\Common.dll
+E:\2011\rev4\BookStore\Common\obj\Release\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\bin\Release\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\bin\Release\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\obj\Release\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\obj\Release\Common.pdb

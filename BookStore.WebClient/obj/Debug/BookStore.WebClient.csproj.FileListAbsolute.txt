@@ -1,0 +1,569 @@
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Common.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Owin.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Common.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Common.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Owin.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Common.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Common.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Owin.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Common.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Common.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Owin.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Common.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Antlr3.Runtime.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Common.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Newtonsoft.Json.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Owin.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Helpers.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Mvc.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Optimization.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Razor.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\WebGrease.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Common.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Helpers.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Mvc.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Optimization.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Razor.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Newtonsoft.Json.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojResolveAssemblyReference.cache
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.pdb
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Antlr3.Runtime.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Common.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Newtonsoft.Json.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Owin.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Helpers.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Mvc.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Optimization.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Razor.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\WebGrease.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Common.pdb
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Helpers.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Mvc.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Optimization.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Razor.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Newtonsoft.Json.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojResolveAssemblyReference.cache
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+U:\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Common.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Owin.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\WebGrease.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Common.pdb
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojResolveAssemblyReference.cache
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\BookStoreS12016TestedLabs\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Components.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.WebClient\bin\BookStore.Business.Entities.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Components.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Entities.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Common.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Owin.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Components.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Components.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Entities.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Business.Entities.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Common.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb

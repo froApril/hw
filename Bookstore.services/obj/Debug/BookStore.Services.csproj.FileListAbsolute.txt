@@ -1,0 +1,370 @@
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\BookStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\BookStore.Services\obj\Debug\BookStore.Services.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\EntityFramework.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\EntityFramework.xml
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\EntityFramework.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.xml
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+U:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\EntityFramework.xml
+U:\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+U:\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.dll
+U:\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.xml
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\BookStoreS12016TestedLabs\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+C:\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\BookStoreS12016TestedLabs\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\obj\Debug\BookStore.Services.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\obj\Debug\BookStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\obj\Debug\BookStore.Services.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.Optimization.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\BookStore.WebClient.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.Optimization.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\BookStore.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Components.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.WebClient.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Common.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Owin.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.WebClient.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\BookStore.WebClient.dll.config
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Common.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\obj\Debug\BookStore.Services.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\obj\Debug\BookStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\obj\Debug\BookStore.Services.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\ASUS\Desktop\BookStore (1)\BookStore.Services\obj\Debug\BookStore.Services.pdb

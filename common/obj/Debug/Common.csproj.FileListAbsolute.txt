@@ -1,0 +1,73 @@
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\obj\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\BookStore\BookStore\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\Common\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\Common\obj\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\BookStore\BookStore\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\Common\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\Common\obj\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\BookStore\Common\obj\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\Common\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\Common\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\Common\obj\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRoles(1)\Common\obj\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\Common\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\Common\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\Common\obj\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012\BookStoreWithRolesS12012\Common\obj\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\Common\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\Common\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\Common\obj\Debug\Common.dll
+C:\Users\Matt\Desktop\BookStoreWithRolesS12012(2)\BookStoreWithRolesS12012\Common\obj\Debug\Common.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\Common\bin\Debug\Common.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\Common\bin\Debug\Common.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\Common\obj\Debug\Common.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015\Common\obj\Debug\Common.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\Common\bin\Debug\Common.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\Common\bin\Debug\Common.pdb
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\Common\obj\Debug\Common.dll
+C:\Users\MATT_Mac\Desktop\BookStoreWithRolesS12015wWebAPI\Common\obj\Debug\Common.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\Common\bin\Debug\Common.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\Common\bin\Debug\Common.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\Common\obj\Debug\Common.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\BookStoreWithRolesS12015wWebAPI\Common\obj\Debug\Common.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\Common\bin\Debug\Common.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\Common\bin\Debug\Common.pdb
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\Common\obj\Debug\Common.dll
+C:\Users\msla2391\Desktop\BookStoreS12015TestedLabs(4)(1)\Common\obj\Debug\Common.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\Common\bin\Debug\Common.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\Common\bin\Debug\Common.pdb
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\Common\obj\Debug\Common.dll
+\\Client\C$\Users\msla2391\Downloads\BookStoreS12016TestedLabs\Common\obj\Debug\Common.pdb
+U:\BookStoreS12016TestedLabs\Common\bin\Debug\Common.dll
+U:\BookStoreS12016TestedLabs\Common\bin\Debug\Common.pdb
+U:\BookStoreS12016TestedLabs\Common\obj\Debug\Common.dll
+U:\BookStoreS12016TestedLabs\Common\obj\Debug\Common.pdb
+C:\BookStoreS12016TestedLabs\Common\bin\Debug\Common.dll
+C:\BookStoreS12016TestedLabs\Common\bin\Debug\Common.pdb
+C:\BookStoreS12016TestedLabs\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\BookStoreS12016TestedLabs\Common\obj\Debug\Common.dll
+C:\BookStoreS12016TestedLabs\Common\obj\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\Common\bin\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\Common\bin\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\Common\obj\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\BookStore\Common\obj\Debug\Common.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\Common\bin\Debug\Common.dll
+C:\Users\ASUS\Desktop\BookStore (1)\Common\bin\Debug\Common.pdb
+C:\Users\ASUS\Desktop\BookStore (1)\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BookStore (1)\Common\obj\Debug\Common.dll
+C:\Users\ASUS\Desktop\BookStore (1)\Common\obj\Debug\Common.pdb
